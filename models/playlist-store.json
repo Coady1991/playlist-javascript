@@ -1,0 +1,85 @@
+{
+  "playlistCollection": [
+    {
+      "id": "01",
+      "title": "Beethoven Piano Sonatas",
+      "songs": [
+        {
+          "id": "02",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        },
+        {
+          "id": "03",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        },
+        {
+          "id": "04",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Beethoven Piano Concertos",
+      "songs": [
+        {
+          "id": "06",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        },
+        {
+          "id": "07",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        },
+        {
+          "id": "08",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Beethoven Violin Concertos",
+      "songs": [
+        {
+          "id": "10",
+          "title": "Violin Concerto No.9",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        },
+        {
+          "id": "11",
+          "title": "Violin Concerto No.3",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        },
+        {
+          "id": "12",
+          "title": "Violin Concerto No.5",
+          "artist": "Beethoven",
+          "duration": 6.42,
+          "genre": "Classic"
+        }
+      ]
+    }
+  ]
+}
