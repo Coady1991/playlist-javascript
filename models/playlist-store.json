@@ -3,6 +3,7 @@
     {
       "id": "01",
       "title": "Beethoven Piano Sonatas",
+      "duration": 20,
       "songs": [
         {
           "id": "02",
@@ -30,6 +31,7 @@
     {
       "id": "05",
       "title": "Beethoven Piano Concertos",
+      "duration": 20,
       "songs": [
         {
           "id": "06",
@@ -57,6 +59,7 @@
     {
       "id": "09",
       "title": "Beethoven Violin Concertos",
+      "duration": 20,
       "songs": [
         {
           "id": "10",
