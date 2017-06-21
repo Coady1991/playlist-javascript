@@ -3,6 +3,7 @@
 const logger = require('../utils/logger');
 const playlistCollection = require('../models/playlist-store.js');
 const playlistStore = require('../models/playlist-store');
+const uuid = require('uuid');
 
 const dashboard = {
   index(request, response) {
@@ -19,6 +20,15 @@ const dashboard = {
     logger.debug(`Deleting Playlist ${playlistId} from Dashboard`);
     playlistStore.removePlaylist(playlistId);
     response.redirect('/dashboard/');
+  },
+  addPlaylist(request, response) {
+    const newPlayList = {
+      id: uuid(),
+      title: request.body.title,
+      songs: [],
+    };
+    playlistStore.addPlaylist(newPlayList);
+    response.redirect('/dashboard');
   },
 };
 
