@@ -1,88 +1,74 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
+      "id": "4a673d54-28f3-4cec-aec6-5848d0cfa64f",
       "title": "Beethoven Piano Sonatas",
-      "duration": 20,
       "songs": [
         {
-          "id": "02",
-          "title": "Piano Sonata No. 3",
+          "id": "1f5a3958-ab4f-4a68-ac7c-8c50d7fa09bc",
+          "title": "Piano Sonata No. 5",
           "artist": "Beethoven",
-          "duration": 6.42,
+          "duration": 10,
           "genre": "Classic"
         },
         {
-          "id": "03",
-          "title": "Piano Sonata No. 7",
+          "id": "016bd3cf-c350-48f2-bc2c-362f01846917",
+          "title": "Piano Sonata No. 2",
           "artist": "Beethoven",
-          "duration": 6.42,
-          "genre": "Classic"
-        },
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven",
-          "duration": 6.42,
+          "duration": 12,
           "genre": "Classic"
         }
-      ]
+      ],
+      "duration": 22
     },
     {
-      "id": "05",
+      "id": "cca88386-328f-4e6b-9b64-3aebff4def66",
       "title": "Beethoven Piano Concertos",
-      "duration": 20,
       "songs": [
         {
-          "id": "06",
-          "title": "Piano Concerto No. 0",
+          "id": "abac6639-be52-4c74-b146-29c693f85080",
+          "title": "Piano Concerto No. 2",
           "artist": "Beethoven",
-          "duration": 6.42,
-          "genre": "Classic"
-        },
-        {
-          "id": "07",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven",
-          "duration": 6.42,
-          "genre": "Classic"
-        },
-        {
-          "id": "08",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven",
-          "duration": 6.42,
+          "duration": 14,
           "genre": "Classic"
         }
-      ]
+      ],
+      "duration": 14
     },
     {
-      "id": "09",
-      "title": "Beethoven Violin Concertos",
-      "duration": 20,
+      "id": "1dd1c616-55bc-47c9-b5f7-594ada21a0bf",
+      "title": "Beethoven Violin Sonatas",
       "songs": [
         {
-          "id": "10",
-          "title": "Violin Concerto No.9",
+          "id": "7b4f779f-37c6-4549-b24f-60b744a90caf",
+          "title": "Violin Sonata No. 1",
           "artist": "Beethoven",
-          "duration": 6.42,
+          "duration": 15,
           "genre": "Classic"
         },
         {
-          "id": "11",
-          "title": "Violin Concerto No.3",
+          "id": "0b1f0871-8daf-48cd-9c93-66dae475463c",
+          "title": "Violin Sonata No. 6",
           "artist": "Beethoven",
-          "duration": 6.42,
-          "genre": "Classic"
-        },
-        {
-          "id": "12",
-          "title": "Violin Concerto No.5",
-          "artist": "Beethoven",
-          "duration": 6.42,
+          "duration": 19,
           "genre": "Classic"
         }
-      ]
+      ],
+      "duration": 34
+    },
+    {
+      "id": "814763c8-93d8-45da-aa8a-5261aed06918",
+      "title": "Beethoven Orchestras",
+      "songs": [
+        {
+          "id": "06cd1e14-5915-4704-bf3a-7a4c5b153f5e",
+          "title": "Orchestra No.1",
+          "artist": "Beethoven",
+          "duration": 17,
+          "genre": "Classic"
+        }
+      ],
+      "duration": 17
     }
   ]
 }
