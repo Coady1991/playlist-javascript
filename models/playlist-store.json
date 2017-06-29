@@ -1,5 +1,34 @@
 {
   "playlistCollection": [
-    
+    {
+      "id": "ad1020bc-0e01-4430-8bf7-a02fdf82a957",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "Homer's Playlist",
+      "songs": [
+        {
+          "id": "51d91c73-8c45-4ebe-8ac7-ef284aa72a10",
+          "title": "Chumbawamba",
+          "artist": "Tubthumping",
+          "duration": 4,
+          "genre": "Alternative/Indie"
+        }
+      ],
+      "duration": 4
+    },
+    {
+      "id": "a72b9110-7ee4-49be-a93e-49f78574a8fc",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "title": "Marge's Playlist",
+      "songs": [
+        {
+          "id": "8c02f74e-affd-4047-9370-3f3fcd8f1477",
+          "title": "You Are So Beautiful",
+          "artist": "Joe Cocker",
+          "duration": 2,
+          "genre": "Classic Rock"
+        }
+      ],
+      "duration": 2
+    }
   ]
 }
